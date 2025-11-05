@@ -1,0 +1,29 @@
+# Core Streamlit
+streamlit
+
+# PDF and Document Processing
+pdfplumber
+python-docx
+
+# Machine Learning and NLP
+sentence-transformers
+scikit-learn
+numpy
+pandas
+
+# Text Processing
+nltk
+
+# HTTP Requests
+requests
+
+# Visualization
+plotly
+
+# PyTorch and Transformers (with specific versions for stability)
+torch>=1.9.0
+transformers
+
+# Additional common dependencies
+Pillow
+regex
