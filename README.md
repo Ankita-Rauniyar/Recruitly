@@ -187,11 +187,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] **LLM-Generated Summaries**: AI-written candidate analysis reports
 - [ ] **Skill Recommendation**: AI suggests missing skills for candidates
 
-## 👨‍💻 Author
-
-**Yogesh Rauniyar**
-- [GitHub](https://github.com/Yogeshrauniyar)
-- [LinkedIn](https://linkedin.com/in/Yogeshrauniyar)
 
 ## 🙏 Acknowledgments
 
